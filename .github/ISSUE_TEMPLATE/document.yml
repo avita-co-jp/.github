@@ -1,0 +1,21 @@
+name: Document
+description: 何かDocument作成をする場合のIssue Type
+title: "[Document]: "
+labels:
+  - "Documentation 📙"
+
+body:
+  - type: textarea
+    attributes:
+      label: Related links
+      description: 関連する Issue や、 Slack のリンクを記載する
+
+  - type: textarea
+    attributes:
+      label: Description
+      description: Document の概要を記載する
+
+  - type: textarea
+    attributes:
+      label: Notes
+      description: 補足事項を記載する

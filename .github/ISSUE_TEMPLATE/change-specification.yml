@@ -1,0 +1,26 @@
+name: Change specification
+description: 既存の仕様を変更する時に使用するIssue Type
+title: "[Change specification]: "
+labels:
+  - "Change Specification 🦄"
+
+body:
+  - type: textarea
+    attributes:
+      label: Related links
+      description: 関連する Issue や、 Slack のリンクを記載する
+
+  - type: textarea
+    attributes:
+      label: Descriptions
+      description: 変更理由を記述する
+
+  - type: textarea
+    attributes:
+      label: Requirements
+      description: 新しい要件を記述する
+
+  - type: textarea
+    attributes:
+      label: Notes
+      description: 補足事項を記載する

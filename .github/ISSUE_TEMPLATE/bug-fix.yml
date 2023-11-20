@@ -1,0 +1,26 @@
+name: Bug Fix
+description: 不具合を修正するIssue Type
+title: "[Bug Fix]: "
+labels:
+  - "Bug Fix 🐛"
+
+body:
+  - type: textarea
+    attributes:
+      label: Related links
+      description: 関連する Issue や、 Slack のリンクを記載する
+
+  - type: textarea
+    attributes:
+      label: Bug Description
+      description: 現状のバグ状況を記載する。
+
+  - type: textarea
+    attributes:
+      label: 改善後仕様 (Acceptance Criteria)
+      description: 修正後の要件を記述する。記載方法はAcceptance Criteriaと同じにする。
+
+  - type: textarea
+    attributes:
+      label: Notes
+      description: 補足事項を記載する

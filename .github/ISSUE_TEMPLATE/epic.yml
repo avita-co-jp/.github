@@ -1,0 +1,21 @@
+name: Epic
+description: 複数のUser StoryをまとめるIssue Type。User Storyより一つ上の階層になる
+title: "[Epic]: "
+labels:
+  - "Epic 🦐"
+
+body:
+  - type: textarea
+    attributes:
+      label: Child Issues (User Stories)
+      description: 関連する Issue (User Story) や、 Slack のリンクを記載する
+
+  - type: textarea
+    attributes:
+      label: Description
+      description: Epicの概要を記載する
+
+  - type: textarea
+    attributes:
+      label: Notes
+      description: 補足事項を記載する

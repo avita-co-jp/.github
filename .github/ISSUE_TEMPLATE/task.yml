@@ -1,0 +1,30 @@
+name: Task
+description: Userに影響はなく、技術・開発レベルで行う作業を総合的に表すIssue Type
+title: "[Task]: "
+labels:
+  - "Task 💅"
+
+body:
+  - type: textarea
+    attributes:
+      label: Related links
+      description: 関連する Issue や、 Slack のリンクを記載する
+
+  - type: textarea
+    attributes:
+      label: Requirements
+      description: 必要な要件を記述する
+
+  - type: textarea
+    attributes:
+      label: Task list
+      description: 細分化したタスクの完了条件を記述する
+      placeholder: |
+        - [ ] ~~ をテストする
+      value: |
+        - [ ] 
+
+  - type: textarea
+    attributes:
+      label: Notes
+      description: 補足事項を記載する
