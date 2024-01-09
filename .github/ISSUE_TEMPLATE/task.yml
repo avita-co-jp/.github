@@ -1,13 +1,13 @@
 name: Task
 description: Userに影響はなく、技術・開発レベルで行う作業を総合的に表すIssue Type
 labels:
-  - "Task 💅aaa"
+  - "Task 💅"
 
 body:
   - type: textarea
     attributes:
       label: Related links
-      description: 関連する Issue や、 Slack のリンクを記載する
+      description: 関連する Issue や、 Slack のリンクを記載するaaaa
 
   - type: textarea
     attributes:
