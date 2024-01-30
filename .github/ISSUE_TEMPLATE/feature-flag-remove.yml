@@ -16,11 +16,6 @@ body:
 
   - type: textarea
     attributes:
-      label: Scope
-      description: Refactoringをする範囲を大まかに書く。内容としては、「Diffが想像できる」や「方向性が分かる」ような内容で良い。それよりも細かいところはCode Reviewの時に確認する。
-
-  - type: textarea
-    attributes:
       label: Notes
       description: 補足事項を記載する
 
