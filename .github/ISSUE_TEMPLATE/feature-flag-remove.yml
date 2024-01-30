@@ -1,5 +1,6 @@
 name: Bug Fix
 description: Feature Flagを削除するためのIssue Type
+title: "test"
 labels:
   - "Feature Flag Removal"
 
