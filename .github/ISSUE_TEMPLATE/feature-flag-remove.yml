@@ -21,11 +21,6 @@ body:
 
   - type: textarea
     attributes:
-      label: Acceptance Criteria
-      description: このRefactoring Issueが完了する基準を記載する。例えば、Unit Testが全て通るなど。もし、UI上での確認が必要であれば、Gherkin Syntax (Scenario, Given, When, Then)を使用してテストケースを記載する。
-
-  - type: textarea
-    attributes:
       label: Notes
       description: 補足事項を記載する
 
