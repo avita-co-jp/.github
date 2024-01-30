@@ -1,4 +1,4 @@
-name: Refactor
+name: Feature Flag Removal
 description: Refactoring を行う時のIssue Type
 title: "[Refactor]: "
 labels:
