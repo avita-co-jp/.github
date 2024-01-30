@@ -27,3 +27,7 @@ body:
     attributes:
       label: Notes
       description: 補足事項を記載する
+  - type: textarea
+    attributes:
+      label: Feature Flag
+      description: Feature Flagの名称を記載する
