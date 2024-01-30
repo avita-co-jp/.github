@@ -1,7 +1,7 @@
 name: Feature Flag Removal
 description: Refactoring を行う時のIssue Type
 labels:
-  - "Refactor ✨"
+  - "Feature Flag Removal"
 body:
   - type: textarea
     attributes:
