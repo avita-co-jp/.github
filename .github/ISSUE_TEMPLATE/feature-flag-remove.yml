@@ -1,5 +1,5 @@
 name: Feature Flag Removal
-description: Refactoring を行う時のIssue Type
+description: Feature Flagの削除を行うIssue Type
 labels:
   - "Feature Flag Removal"
 body:
