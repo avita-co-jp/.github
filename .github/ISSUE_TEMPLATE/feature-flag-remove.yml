@@ -9,18 +9,3 @@ body:
     attributes:
       label: Related links
       description: 関連する Issue や、 Slack のリンクを記載する
-
-  - type: textarea
-    attributes:
-      label: Description
-      description: 概要を記載する。（必要であれば）
-
-  - type: textarea
-    attributes:
-      label: Notes
-      description: 補足事項を記載する
-
-  - type: textarea
-    attributes:
-      label: Feature Flag
-      description: Feature Flagの名称を記載する
