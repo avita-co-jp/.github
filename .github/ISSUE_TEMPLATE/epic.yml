@@ -7,8 +7,18 @@ labels:
 body:
   - type: textarea
     attributes:
-      label: Child Issues (User Stories)
-      description: 関連する Issue (User Story) や、 Slack のリンクを記載する
+      label: Parent Issues
+      description: Epicの親にあたるIssueを記載する。
+
+  - type: textarea
+    attributes:
+      label: Child Issues
+      description: 子Issue (User Story) を記載する。
+
+  - type: textarea
+    attributes:
+      label: Others Issues or links
+      description: 関連するその他のIssueや、 リンクを記載する
 
   - type: textarea
     attributes:
