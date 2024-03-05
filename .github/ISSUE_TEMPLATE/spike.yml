@@ -1,6 +1,5 @@
 name: Spike
 description: Spikeを行う時のIssue Type。
-title: "[Spike]: "
 labels:
   - "Spike ✨"
 body:
