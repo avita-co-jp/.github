@@ -1,0 +1,20 @@
+name: Spike
+description: Spikeを行う時のIssue Type。
+title: "[Spike]: "
+labels:
+  - "Spike ✨"
+body:
+  - type: textarea
+    attributes:
+      label: Related links
+      description: 関連する Issue や、 Slack のリンク、リファクタリングの理由を記載する
+
+  - type: textarea
+    attributes:
+      label: Description
+      description: Refactoringの目的を記載する。より詳細な説明はhttps://github.com/avita-co-jp/documents/blob/main/%E9%96%8B%E7%99%BA%E3%83%AB%E3%83%BC%E3%83%AB/Refactoring-Rule.md
+
+  - type: textarea
+    attributes:
+      label: Notes
+      description: 補足事項を記載する
