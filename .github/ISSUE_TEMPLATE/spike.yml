@@ -11,7 +11,7 @@ body:
   - type: textarea
     attributes:
       label: Description
-      description: Spikeの内容と理由を記載する。詳細はこちら参照: https://docs.google.com/presentation/d/1-z6B3tyji7bVegMOyEtl__nOQJrHSETmSV6Ti1NTQxU/edit#slide=id.g26536243de2_0_176
+      description: Spikeの内容と理由を記載する。詳細はこちら参照 https://docs.google.com/presentation/d/1-z6B3tyji7bVegMOyEtl__nOQJrHSETmSV6Ti1NTQxU/edit#slide=id.g26536243de2_0_176
 
   - type: textarea
     attributes:
