@@ -15,7 +15,7 @@ body:
 
   - type: textarea
     attributes:
-      label: 調査結果
+      label: Output
       description: 調査結果をこちらに記載し、Team全体、またはProduct Ownerへ共有する。
 
 
