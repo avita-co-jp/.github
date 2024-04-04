@@ -1,13 +1,13 @@
 ---
-name: Feature flag removal (Markdown)
+name: Feature Flag Removal (Markdown)
 about: Feature Flagの削除を行うIssue Type
 labels: Feature flag
 ---
 
-**Related links**
+**Related Links**
 
 **Description**
 
 **Notes**
 
-**Feature flag**
+**Feature Flag**
