@@ -1,6 +1,6 @@
 ---
 name: Feature flag removal (Markdown)
-about: Feature flag removal template
+about: Feature Flagの削除を行うIssue Type
 labels: Feature flag
 ---
 
