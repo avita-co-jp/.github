@@ -1,18 +1,18 @@
 ---
-name: Bug fix (Markdown)
+name: Bug Fix (Markdown)
 about: 不具合を修正するIssue Type
 labels: Bug fix
 ---
 
-**Related links**
+**Related Links**
 
-**Bug description**
+**Bug Description**
 
 **改善後仕様 (Acceptance Criteria)**
 
 **Notes**
 
-**Feature flag**
+**Feature Flag**
 
 **Cause (Reporting)**
 
