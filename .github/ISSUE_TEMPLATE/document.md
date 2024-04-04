@@ -1,6 +1,6 @@
 ---
 name: Document (Markdown)
-about: Document template
+about: 何かDocument作成をする場合のIssue Type
 labels: Document
 ---
 
