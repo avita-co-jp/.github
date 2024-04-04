@@ -4,8 +4,6 @@ about: Task markdown template
 labels: Task
 ---
 
-<!-- This is a comment line -->
-
 **Related links**
 
 **Requirements**
