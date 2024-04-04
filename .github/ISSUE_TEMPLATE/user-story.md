@@ -6,16 +6,16 @@ labels: User Story
 
 **Description**
 
-**Parent Issue**
+**Parent issue**
 
-**Child Issues**
+**Child issues**
 
-**Other Issues or links**
+**Other issues or links**
 
-**User Story**
+**User story**
 
-**Acceptance Criteria**
+**Acceptance criteria**
 
 **Notes**
 
-**Feature Flag**
+**Feature flag**
