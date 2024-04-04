@@ -4,8 +4,6 @@ about: Create a report to help us improve
 labels: User Story
 ---
 
-<!-- This is a comment line -->
-
 **Description**
 
 **Parent Issue**
