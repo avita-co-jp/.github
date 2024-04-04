@@ -1,6 +1,6 @@
 ---
 name: Refactor (Markdown)
-about: Refactor markdown template
+about: Refactoring を行う時のIssue Type
 labels: Refactor
 ---
 
