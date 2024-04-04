@@ -2,7 +2,7 @@ name: Change specification
 description: 既存の仕様を変更する時に使用するIssue Type
 title: "[Change specification]: "
 labels:
-  - "Change Specification 🦄"
+  - "Change Specification"
 
 body:
   - type: textarea
