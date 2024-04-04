@@ -1,6 +1,6 @@
 ---
 name: Task (Markdown)
-about: Task markdown template
+about: Userに影響はなく、技術・開発レベルで行う作業を総合的に表すIssue Type
 labels: Task
 ---
 
