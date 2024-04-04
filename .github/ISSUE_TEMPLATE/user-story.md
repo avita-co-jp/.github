@@ -1,6 +1,6 @@
 ---
 name: User Story (Markdown)
-about: User Story markdown template
+about: 新機能の開発
 labels: User Story
 ---
 
