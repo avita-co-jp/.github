@@ -6,7 +6,7 @@ labels: Task
 
 <!-- This is a comment line -->
 
-**Related Links**
+**Related links**
 
 **Requirements**
 
