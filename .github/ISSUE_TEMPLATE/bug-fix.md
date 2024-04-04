@@ -1,6 +1,6 @@
 ---
 name: Bug fix (Markdown)
-about: Bug fix template
+about: 不具合を修正するIssue Type
 labels: Bug fix
 ---
 
