@@ -10,7 +10,7 @@ labels: Refactor
 
 **Scope**
 
-**Acceptance Criteria**
+**Acceptance criteria**
 
 **Notes**
 
