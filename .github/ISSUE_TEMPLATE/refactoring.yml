@@ -2,7 +2,7 @@ name: Refactoring
 description: Refactoring を行う時のIssue Type
 title: "[Refactor]: "
 labels:
-  - "Refactoring ✨"
+  - "Refactoring"
 body:
   - type: textarea
     attributes:
