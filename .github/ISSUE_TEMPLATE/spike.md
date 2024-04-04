@@ -1,6 +1,6 @@
 ---
 name: Spike (Markdown)
-about: Spike markdown template
+about: Spikeを行う時のIssue Type。
 labels: Spike
 ---
 
