@@ -1,10 +1,10 @@
 ---
-name: Change specification (Markdown)
+name: Change Specification (Markdown)
 about: 既存の仕様を変更する時に使用するIssue Type
 labels: Change specification
 ---
 
-**Related links**
+**Related Links**
 
 **Description**
 
@@ -12,4 +12,4 @@ labels: Change specification
 
 **Notes**
 
-**Feature flag**
+**Feature Flag**
