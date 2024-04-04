@@ -1,4 +1,4 @@
-name: Feature Flag Removal
+name: Feature flag removal
 description: Feature Flagの削除を行うIssue Type
 labels:
   - "Feature Flag Removal"
