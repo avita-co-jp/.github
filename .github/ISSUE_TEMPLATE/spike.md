@@ -4,7 +4,7 @@ about: Spikeを行う時のIssue Type。
 labels: Spike
 ---
 
-**Related links**
+**Related Links**
 
 **Description**
 
