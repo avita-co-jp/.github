@@ -1,6 +1,6 @@
 ---
 name: User Story (Markdown)
-about: Create a report to help us improve
+about: User Story markdown template
 labels: User Story
 ---
 
