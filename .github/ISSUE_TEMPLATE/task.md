@@ -4,12 +4,12 @@ about: Userに影響はなく、技術・開発レベルで行う作業を総合
 labels: Task
 ---
 
-**Related links**
+**Related Links**
 
 **Requirements**
 
-**Task list**
+**Task List**
 
 **Notes**
 
-**Feature flag**
+**Feature Flag**
