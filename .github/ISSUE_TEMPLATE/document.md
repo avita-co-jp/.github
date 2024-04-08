@@ -4,8 +4,11 @@ about: 何かDocument作成をする場合のIssue Type
 labels: Document
 ---
 
-**Related Links**
+## Related Links
+<!-- 関連する Issue や、 Slack のリンクを記載する -->
 
-**Description**
+## Description
+<!-- Document の概要を記載する -->
 
-**Notes**
+## Notes
+<!-- 補足事項を記載する -->
