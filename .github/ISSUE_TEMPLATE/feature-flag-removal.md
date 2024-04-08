@@ -4,14 +4,14 @@ about: Feature Flagの削除を行うIssue Type
 labels: Feature flag
 ---
 
-**Related Links**
+## Related Links
 <!-- 関連する Issue や、 Slack のリンク、リファクタリングの理由を記載する -->
 
-**Description**
+## Description
 <!-- 概要を記載する。（必要であれば） -->
 
-**Notes**
+## Notes
 <!-- 補足事項を記載する -->
 
-**Feature Flag**
+## Feature Flag
 <!-- Feature Flagの名称を記載する -->
