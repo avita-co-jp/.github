@@ -4,14 +4,20 @@ about: 複数のUser StoryをまとめるIssue Type。User Storyより一つ上�
 labels: Epic
 ---
 
-**Parent Issue**
+## Parent Issue
+<!-- Epicの親にあたるIssueを記載する -->
 
-**Child Issues**
+## Child Issues
+<!-- 子Issue (User Story) を記載する。 -->
 
-**Other Issues or Links**
+## Other Issues or Links
+<!-- 関連するその他のIssueや、 リンクを記載する -->
 
-**Description**
+## Description
+<!-- Epicの概要を記載する -->
 
-**Notes**
+## Notes
+<!-- 補足事項を記載する -->
 
-**Feature Flag**
+## Feature Flag
+<!-- Feature Flagの名称を記載する -->
