@@ -4,18 +4,19 @@ about: 不具合を修正するIssue Type
 labels: Bug fix
 ---
 
-**Related Links**
+## Related Links
 
-**Bug Description**
+## Bug Description
 
-**改善後仕様 (Acceptance Criteria)**
+## 改善後仕様 (Acceptance Criteria)
 
-**Notes**
+## Reporting
+### Cause
 
-**Feature Flag**
+### Solution
 
-**Cause (Reporting)**
+### Long-term solution
 
-**Solution (Reporting)**
+## Notes
 
-**Long-term solution (Reporting)**
+## Feature Flag
