@@ -1,7 +1,7 @@
 ---
 name: Bug Fix (Markdown)
 about: 不具合を修正するIssue Type
-title: [Bug Fix]: 
+title: "[Bug Fix]: "
 labels: Bug fix
 ---
 
