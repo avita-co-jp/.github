@@ -1,6 +1,7 @@
 ---
 name: Spike (Markdown)
 about: Spikeを行う時のIssue Type。
+title: "[Spike]: "
 labels: Spike
 ---
 
