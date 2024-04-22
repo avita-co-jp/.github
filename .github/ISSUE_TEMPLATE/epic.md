@@ -1,6 +1,7 @@
 ---
 name: Epic (Markdown)
 about: 複数のUser StoryをまとめるIssue Type。User Storyより一つ上の階層になる
+title: "[Epic]: "
 labels: Epic
 ---
 
