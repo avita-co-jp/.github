@@ -17,7 +17,7 @@ body:
   - type: textarea
     attributes:
       label: Requirements
-      description: 新しい要件を記述する
+      description: 新しい要件を記述する。FormatはUser Storyと同じGherkin Syntaxで書く。
 
   - type: textarea
     attributes:
