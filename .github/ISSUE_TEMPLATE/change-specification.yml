@@ -12,7 +12,7 @@ body:
   - type: textarea
     attributes:
       label: Descriptions
-      description: 変更理由を記述する
+      description: 変更理由の概要を記載する。（誰が、何を、なぜしたいのか。）書式は自由だが、迷うようであればUser Storyと同じでも良い。
 
   - type: textarea
     attributes:
