@@ -5,19 +5,21 @@ title: "[Architecture Decision]: "
 ---
 
 ## Parent Issue
-
 <!-- User Storyの親にあたるIssueを記載する。 -->
 
-## Issue Context
 
+
+## Issue Context
 <!-- この Issue で設計する必要があることを記載する -->
 
-## Requirements
 
+
+## Requirements
 <!-- ビジネス要件、機能要件、非機能要件を記載する -->
 
-## Material for Decision
 
+
+## Material for Decision
 <!--
 決定材料を記載する
 選択肢ごとの長所と短所、機能の比較、コストの比較、懸念事項などを記載する
@@ -35,8 +37,9 @@ Example:
   - Concern 2: Description
 -->
 
-## Discussion Log
 
+
+## Discussion Log
 <!--
 議論したログやリンク、議事録などを記載する
   Example:
@@ -46,8 +49,9 @@ Example:
   - **Log/Links**: [Link to detailed discussion], [Link to meeting notes]
 -->
 
-## Decision
 
+
+## Decision
 <!--
 決定事項を記載する。選ばれた選択肢とその理由も記載する
   Example:
@@ -55,6 +59,8 @@ Example:
   - **Rationale**: Brief explanation of why this option was chosen
 -->
 
-## Notes
 
+
+## Notes
 <!-- その他の備考や追加情報を記載する -->
+
