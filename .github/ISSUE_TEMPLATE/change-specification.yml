@@ -11,8 +11,13 @@ body:
 
   - type: textarea
     attributes:
+      label: Child Issues
+      description: 関連する Issue や、 Slack のリンクを記載する
+
+  - type: textarea
+    attributes:
       label: Descriptions
-      description: 変更理由の概要を記載する。（誰が、何を、なぜしたいのか。）書式は自由だが、迷うようであればUser Storyと同じでも良い。
+      description: 変更理由の概要を記載する。記載方法はUser Storyと同じで、誰が、何を、なぜしたいかを必ず明記する。
 
   - type: textarea
     attributes:
