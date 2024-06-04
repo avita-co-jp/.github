@@ -13,7 +13,12 @@ body:
   - type: textarea
     attributes:
       label: Bug Description
-      description: 現状のバグ状況を記載する。
+      description: 現状のバグ状況を記載する。記載方法は、誰が、何をすると、何が起きるか、を記載する。
+
+  - type: textarea
+    attributes:
+      label: 再現方法
+      description: どうしたら、再現されるかの詳細手順を箇条書きで記載する。（又は、動画があればそちらを添付する。）
 
   - type: textarea
     attributes:
