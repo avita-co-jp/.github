@@ -1,23 +1,23 @@
 ---
 name: Architecture Decision (Markdown)
-about: アーキテクチャ設計
+about: アーキテクチャを設計するときに使用するIssue Type
 title: "[Architecture Decision]: "
 ---
 
 ## Parent Issue
 <!-- User Storyの親にあたるIssueを記載する。 -->
 
-
+- 
 
 ## Issue Context
 <!-- この Issue で設計する必要があることを記載する -->
 
-
+- 
 
 ## Requirements
 <!-- ビジネス要件、機能要件、非機能要件を記載する -->
 
-
+- 
 
 ## Material for Decision
 <!--
@@ -59,7 +59,7 @@ Example:
   - **Rationale**: Brief explanation of why this option was chosen
 -->
 
-
+- 
 
 ## Notes
 <!-- その他の備考や追加情報を記載する -->

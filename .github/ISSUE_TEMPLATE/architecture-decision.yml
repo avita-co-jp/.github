@@ -1,5 +1,5 @@
 name: Architecture Decision
-description: アーキテクチャ設計
+description: アーキテクチャを設計するときに使用するIssue Type
 
 body:
   - type: textarea
