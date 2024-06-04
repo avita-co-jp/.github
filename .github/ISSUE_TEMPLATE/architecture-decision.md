@@ -1,5 +1,5 @@
 ---
-name: Architecture Decision
+name: Architecture Decision (Markdown)
 about: アーキテクチャ設計
 title: "[Architecture Decision]: "
 ---
