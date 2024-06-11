@@ -38,7 +38,7 @@ body:
   - type: textarea
     attributes:
       label: When
-      description: いつまでに顧客が使用したいか、Releaseするべきかを記載する。
+      description: いつまでにReleaseされるべきかを記載する。
 
   - type: textarea
     attributes:
