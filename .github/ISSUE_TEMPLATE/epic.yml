@@ -32,11 +32,6 @@ body:
 
   - type: textarea
     attributes:
-      label: Where
-      description: どの企業や店舗、場所で使用されるかを記載する。
-
-  - type: textarea
-    attributes:
       label: When
       description: いつまでにReleaseされるべきかを記載する。
 
