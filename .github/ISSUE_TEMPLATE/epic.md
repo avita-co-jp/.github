@@ -17,8 +17,11 @@ labels: Epic
 ## Other Issues or Links
 <!-- 関連するその他のIssueや、 リンクを記載する -->
 
-## Description
-<!-- Epicの概要を記載する -->
+## Description (Who, what, why)
+<!-- Epicの概要をWho, what, whyのFormatで記載する -->
+
+## When
+<!-- いつまでにReleaseされるべきかを記載する。 -->
 
 ## Notes
 <!-- 補足事項を記載する -->
