@@ -27,8 +27,18 @@ body:
 
   - type: textarea
     attributes:
-      label: Description
-      description: Epicの概要を記載する
+      label: Description (Who, what, why)
+      description: Epicの概要をWho, what, whyのFormatで記載する
+
+  - type: textarea
+    attributes:
+      label: Where
+      description: どの企業や店舗、場所で使用されるかを記載する。
+
+  - type: textarea
+    attributes:
+      label: When
+      description: いつまでに顧客が使用したいか、Releaseするべきかを記載する。
 
   - type: textarea
     attributes:
