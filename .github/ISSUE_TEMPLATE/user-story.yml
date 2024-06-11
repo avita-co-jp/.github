@@ -16,6 +16,11 @@ body:
 
   - type: textarea
     attributes:
+      label: Figma Link
+      description: FigmaのDesignリンクを記載する。
+
+  - type: textarea
+    attributes:
       label: Others Issues or Links
       description: 関連するその他のIssueや、 リンクを記載する
 
