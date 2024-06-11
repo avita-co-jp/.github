@@ -16,3 +16,17 @@ labels: Spike
 
 ## Notes
 <!-- 補足事項を記載する -->
+
+## Notes
+
+## Feature Flag
+
+## Reporting
+### Cause
+<!-- Bugが起きた原因を詳細に記載する。（5W1H, 5Wなど参照） --> 
+
+### Solution
+<!-- どうやって解決したかを記載する。 -->
+
+### Long-term solution
+<!-- 長期的、または恒久対応などが必要であれば記載する。（例えば、Operationの改善など） --> 
