@@ -8,7 +8,7 @@ labels: Bug fix
 ## Related Links
 <!-- 関連する Issue や、 Slack のリンクを記載する --> 
 
-## Figma Links
+## Figma Design
 <!-- FigmaのDesignリンクを記載する。 --> 
 
 ## Bug Description
