@@ -16,6 +16,11 @@ body:
 
   - type: textarea
     attributes:
+      label: Figma Link
+      description: FigmaのDesignリンクを記載する。
+
+  - type: textarea
+    attributes:
       label: Descriptions
       description: 変更理由の概要を記載する。記載方法はUser Storyと同じで、誰が、何を、なぜしたいかを必ず明記する。
 
