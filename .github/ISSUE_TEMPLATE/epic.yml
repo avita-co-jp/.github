@@ -17,7 +17,7 @@ body:
 
   - type: textarea
     attributes:
-      label: Figma Design
+      label: Figma Link
       description: FigmaのDesignリンクを記載する。
 
   - type: textarea
