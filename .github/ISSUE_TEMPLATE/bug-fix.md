@@ -8,6 +8,9 @@ labels: Bug fix
 ## Related Links
 <!-- 関連する Issue や、 Slack のリンクを記載する --> 
 
+## Figma Links
+<!-- FigmaのDesignリンクを記載する。 --> 
+
 ## Bug Description
 <!-- 現状のバグ状況を記載する。記載方法は、誰が、何をすると、何が起きるか、を記載する。 --> 
 
