@@ -11,7 +11,7 @@ labels: Epic
 ## Child Issues
 <!-- 子Issue (User Story) を記載する。 -->
 
-## Figma Links
+## Figma Design
 <!-- FigmaのDesignリンクを記載する。 --> 
 
 ## Other Issues or Links
