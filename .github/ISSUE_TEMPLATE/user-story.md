@@ -11,7 +11,7 @@ labels: User Story
 ## Child Issues
 <!-- 子Issue (User Story Task等) を記載する。 -->
 
-## Figma Links
+## Figma Design
 <!-- FigmaのDesignリンクを記載する。 --> 
 
 ## Other Issues or Links
