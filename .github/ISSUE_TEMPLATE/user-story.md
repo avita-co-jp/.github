@@ -20,6 +20,10 @@ labels: User Story
 ## User Story
 <!-- User Storyは一行で 誰が(Who) 何をしたいか(What) なぜしたいか(Why) の項目を記載する -->
 
+## Image
+<!-- DesignやCaptureを張る場合、こちらに記載する。 -->
+
+
 ## Acceptance Criteria
 <!-- 下記を満たすように記載する
 Scenario: シナリオのタイトル
