@@ -14,6 +14,9 @@ labels: Change specification
 ## Description
 <!-- 変更理由の概要を記載する。記載方法はUser Storyと同じで、誰が、何を、なぜしたいかを必ず明記する。 -->
 
+## Image
+<!-- DesignやCaptureを張る場合、こちらに記載する。 -->
+
 ## Requirements
 <!-- 新しい要件を記述する。FormatはUser Storyと同じGherkin Syntaxで書く。 -->
 
