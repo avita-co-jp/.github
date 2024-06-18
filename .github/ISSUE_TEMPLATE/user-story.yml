@@ -31,6 +31,11 @@ body:
 
   - type: textarea
     attributes:
+      label: Image
+      description: DesignやCaptureを張る場合、こちらに記載する。
+
+  - type: textarea
+    attributes:
       label: Acceptance Criteria
       description: |
         下記を満たすように記載する
