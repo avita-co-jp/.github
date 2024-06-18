@@ -20,6 +20,9 @@ labels: Epic
 ## Description (Who, what, why)
 <!-- Epicの概要をWho, what, whyのFormatで記載する -->
 
+## Image
+<!-- DesignやCaptureを張る場合、こちらに記載する。 -->
+
 ## When
 <!-- いつまでにReleaseされるべきかを記載する。 -->
 
