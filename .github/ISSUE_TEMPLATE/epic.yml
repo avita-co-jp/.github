@@ -32,6 +32,11 @@ body:
 
   - type: textarea
     attributes:
+      label: Image
+      description: DesignやCaptureを張る場合、こちらに記載する。
+
+  - type: textarea
+    attributes:
       label: When
       description: いつまでにReleaseされるべきかを記載する。
 
