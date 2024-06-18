@@ -26,6 +26,11 @@ body:
 
   - type: textarea
     attributes:
+      label: Image
+      description: DesignやCaptureを張る場合、こちらに記載する。
+
+  - type: textarea
+    attributes:
       label: Requirements
       description: 新しい要件を記述する。FormatはUser Storyと同じGherkin Syntaxで書く。
 
