@@ -22,6 +22,11 @@ body:
 
   - type: textarea
     attributes:
+      label: Image
+      description: DesignやCaptureを張る場合、こちらに記載する。
+
+  - type: textarea
+    attributes:
       label: 再現方法
       description: どうしたら、再現されるかの詳細手順を箇条書きで記載する。（又は、動画があればそちらを添付する。）
 
