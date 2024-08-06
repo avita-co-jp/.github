@@ -1,14 +1,14 @@
----
+--- 
 name: Bug Fix (Markdown)
 about: 不具合を修正するIssue Type
 title: "[Bug Fix]: "
 labels: Bug fix
 ---
 
-## Related Links
+## Related Links 
 <!-- 関連する Issue や、 Slack のリンクを記載する --> 
 
-## Figma Design
+## Figma Design　
 <!-- FigmaのDesignリンクを記載する。 --> 
 
 ## Bug Description
@@ -23,6 +23,7 @@ labels: Bug fix
 ## 改善後仕様 (Acceptance Criteria)
 
 ## Reporting
+<!-- Bugの内容は微小なものでも必ず、Sprint Retrospectiveにて共有する。Formatは以下の通り。 -->
 ### Cause
 
 ### Solution
