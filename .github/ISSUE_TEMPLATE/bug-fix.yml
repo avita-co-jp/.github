@@ -32,7 +32,7 @@ body:
 
   - type: textarea
     attributes:
-      label: 改善後仕様 (Acceptance Criteria)
+      label: 改善後仕様 (Acceptance Criteria) 
       description: 修正後の要件を記述する。記載方法はAcceptance Criteriaと同じにする。
 
   - type: textarea
@@ -48,7 +48,7 @@ body:
   - type: textarea
     attributes:
       label: Cause (Reporting)
-      description: Bugが起きた原因を詳細に記載する。（5W1H, 5Wなど参照）
+      description: Bugが起きた原因を詳細に記載する。Bugの内容は微小なものでも必ず、Sprint Retrospectiveにて共有する。Formatは以下の通り。
 
   - type: textarea
     attributes:
