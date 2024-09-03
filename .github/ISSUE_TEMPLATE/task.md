@@ -9,7 +9,7 @@ labels: Task
 <!-- 関連する Issue や、 Slack のリンクを記載する -->
 
 ## Requirements
-<!-- 必要な要件を記述する -->
+<!--  askの概要を記載する。（User Storyと同じFormatで誰のためにするか、何をするか、なぜするかで記載する）-->
 
 ## Task List
 <!-- 細分化したタスクの完了条件を記述する -->
