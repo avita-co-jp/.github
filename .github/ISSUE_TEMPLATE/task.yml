@@ -12,9 +12,9 @@ body:
   - type: textarea
     attributes:
       label: Requirements
-      description: 必要な要件を記述する
+      description: Taskの概要を記載する。（User Storyと同じFormatで誰のためにするか、何をするか、なぜするかで記載する）
 
-  - type: textarea
+  - type: textarea 
     attributes:
       label: Task List
       description: 細分化したタスクの完了条件を記述する
