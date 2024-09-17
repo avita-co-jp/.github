@@ -14,11 +14,6 @@ body:
 
   - type: textarea
     attributes:
-      label: Requirements
-      description: ビジネス要件、機能要件、非機能要件を記載する
-
-  - type: textarea
-    attributes:
       label: Material for Decision
       description: |
         決定材料を記載する
