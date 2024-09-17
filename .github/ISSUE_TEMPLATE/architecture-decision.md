@@ -14,11 +14,6 @@ title: "[Architecture Decision]: "
 
 - 
 
-## Requirements
-<!-- ビジネス要件、機能要件、非機能要件を記載する -->
-
-- 
-
 ## Material for Decision
 <!--
 決定材料を記載する
@@ -59,7 +54,13 @@ Example:
   - **Rationale**: Brief explanation of why this option was chosen
 -->
 
-- 
+
+## Acceptance Criteria
+<!--  
+完了基準を記載する。設計のため誰にReviewを貰ったら完了とするかを記載する。
+Example: 〇〇さんからReviewをしていただく。
+-->
+
 
 ## Notes
 <!-- その他の備考や追加情報を記載する -->
