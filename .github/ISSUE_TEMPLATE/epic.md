@@ -5,12 +5,6 @@ title: "[Epic]: "
 labels: Epic
 ---
 
-## Parent Issue
-<!-- Epicの親にあたるIssueを記載する -->
-
-## Child Issues
-<!-- 子Issue (User Story) を記載する。 -->
-
 ## Figma Design
 <!-- FigmaのDesignリンクを記載する。 --> 
 
