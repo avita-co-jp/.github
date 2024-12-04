@@ -4,15 +4,6 @@ labels:
   - "User Story"
 
 body:
-  - type: textarea
-    attributes:
-      label: Parent Issues
-      description: User Storyの親にあたるIssueを記載する。
-
-  - type: textarea
-    attributes:
-      label: Child Issues
-      description: 子Issue (User Story Task等) を記載する。
 
   - type: textarea
     attributes:
