@@ -5,15 +5,6 @@ labels:
   - "Epic"
 
 body:
-  - type: textarea
-    attributes:
-      label: Parent Issues
-      description: Epicの親にあたるIssueを記載する。
-
-  - type: textarea
-    attributes:
-      label: Child Issues
-      description: 子Issue (User Story) を記載する。
 
   - type: textarea
     attributes:
