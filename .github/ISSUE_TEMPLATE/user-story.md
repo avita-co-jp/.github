@@ -5,12 +5,6 @@ title: "[User Story]: "
 labels: User Story
 ---
 
-## Parent Issue
-<!-- User Storyの親にあたるIssueを記載する。 -->
-
-## Child Issues
-<!-- 子Issue (User Story Task等) を記載する。 -->
-
 ## Figma Design
 <!-- FigmaのDesignリンクを記載する。 --> 
 
