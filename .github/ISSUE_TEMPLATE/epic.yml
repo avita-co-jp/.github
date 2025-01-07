@@ -28,8 +28,8 @@ body:
 
   - type: textarea
     attributes:
-      label: When
-      description: いつまでにReleaseされるべきかを記載する。
+      label: When/Deploy
+      description: いつまでにReleaseされるべきか、また、どの環境にDeployされるべきかを記載する。
 
   - type: textarea
     attributes:
