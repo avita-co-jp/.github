@@ -22,19 +22,4 @@ body:
   - type: textarea
     attributes:
       label: Notes
-      description: 補足事項を記載する
-
-  - type: textarea
-    attributes:
-      label: Cause (Reporting)
-      description: 障害が起きた原因を詳細に記載する。（5W1H, 5Wなど参照）
-
-  - type: textarea
-    attributes:
-      label: Solution (Reporting)
-      description: どうやって解決したかを記載する。
-
-  - type: textarea
-    attributes:
-      label: Long-term Solution (Reporting)
-      description: 長期的、または恒久対応などが必要であれば記載する。（例えば、Operationの改善など）
+      description: 補足事項を記載する 
