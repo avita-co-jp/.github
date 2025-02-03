@@ -11,11 +11,6 @@ body:
 
   - type: textarea
     attributes:
-      label: Child Issues
-      description: 関連する Issue や、 Slack のリンクを記載する
-
-  - type: textarea
-    attributes:
       label: Figma Link
       description: FigmaのDesignリンクを記載する。
 
