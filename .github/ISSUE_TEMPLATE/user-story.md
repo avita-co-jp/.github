@@ -6,10 +6,12 @@ labels: User Story
 ---
 
 ## Figma Design
-<!-- FigmaのDesignリンクを記載する。 --> 
+<!-- FigmaのDesignリンクを記載する。 -->
 
 ## Other Issues or Links
 <!-- 関連するその他のIssueや、 リンクを記載する -->
+
+- 
 
 ## User Story
 <!-- User Storyは一行で 誰が(Who) 何をしたいか(What) なぜしたいか(Why) の項目を記載する -->
@@ -25,7 +27,7 @@ Given: シナリオの前提条件 (input)
 When: シナリオの実行条件
 Then: シナリオの結果 (output)
 And: その他の条件
--- >
+-->
 
 - [ ] Scenario:
 Given:

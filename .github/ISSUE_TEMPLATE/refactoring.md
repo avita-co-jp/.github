@@ -8,6 +8,8 @@ labels: Refactoring
 ## Related Links
 <!-- 関連する Issue や、 Slack のリンク、リファクタリングの理由を記載する -->
 
+- 
+
 ## Description
 <!-- Refactoringの目的を記載する。より詳細な説明はhttps://github.com/avita-co-jp/documents/blob/main/%E9%96%8B%E7%99%BA%E3%83%AB%E3%83%BC%E3%83%AB/Refactoring-Rule.md -->
 

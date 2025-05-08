@@ -8,6 +8,8 @@ labels: Task
 ## Related Links
 <!-- 関連する Issue や、 Slack のリンクを記載する -->
 
+- 
+
 ## Requirements
 <!--  askの概要を記載する。（User Storyと同じFormatで誰のためにするか、何をするか、なぜするかで記載する）-->
 

@@ -8,6 +8,8 @@ labels: Change specification
 ## Related Links
 <!-- 関連する Issue や、 Slack のリンクを記載する -->
 
+- 
+
 ## Description
 <!-- 変更理由の概要を記載する。記載方法はUser Storyと同じで、誰が、何を、なぜしたいかを必ず明記する。 -->
 
