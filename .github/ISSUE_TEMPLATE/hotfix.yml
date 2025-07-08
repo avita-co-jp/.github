@@ -1,0 +1,21 @@
+name: Hotfix
+description: Hotfix対応のIssue Type
+title: "[Hotfix]: "
+labels:
+  - "Hotfix"
+
+body:
+  - type: textarea
+    attributes:
+      label: Related Links
+      description: 関連する Issue や、 Slack のリンクを記載する
+
+  - type: textarea
+    attributes:
+      label: 環境情報
+      description: 環境情報を記載する。（Browser, OS, 機器）
+
+  - type: textarea
+    attributes:
+      label: Notes
+      description: 補足事項を記載する
