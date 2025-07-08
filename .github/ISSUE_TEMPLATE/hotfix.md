@@ -13,3 +13,6 @@ labels: Hotfix
 - Brower
 - OS
 - 機器
+
+## Memo 
+<!-- 補足事項を記載する -->
