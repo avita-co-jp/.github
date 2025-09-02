@@ -1,0 +1,35 @@
+name: Prototype
+description: Prototypeの開発
+labels:
+  - "Prototype"
+
+body:
+
+  - type: textarea
+    attributes:
+      label: Figma Design
+      description: FigmaのDesignリンクを記載する。
+
+  - type: textarea
+    attributes:
+      label: Others Issues or Links
+      description: 関連するその他のIssueや、 リンクを記載する
+
+  - type: textarea
+    attributes:
+      label: Description
+      description: 概要を一行で 誰が(Who) 何をしたいか(What) なぜしたいか(Why) の項目を記載する
+
+  - type: textarea
+    attributes:
+      label: Image
+      description: DesignやCaptureを張る場合、こちらに記載する。
+
+  - type: textarea
+    attributes:
+      label: Notes
+      description: 補足事項を記載する
+  - type: textarea
+    attributes:
+      label: Feature Flag
+      description: Feature Flagの名称を記載する
