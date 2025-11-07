@@ -16,7 +16,7 @@ labels: Refactoring
 ## Scope
 <!-- Refactoringをする範囲を大まかに書く。内容としては、「Diffが想像できる」や「方向性が分かる」ような内容で良い。それよりも細かいところはCode Reviewの時に確認する。 -->
 
-## Acceptance Ariteria
+## Acceptance Criteria
 <!-- このRefactoring Issueが完了する基準を記載する。例えば、Unit Testが全て通るなど。もし、UI上での確認が必要であれば、Gherkin Syntax (Scenario, Given, When, Then)を使用してテストケースを記載する。 -->
 
 ## Notes
