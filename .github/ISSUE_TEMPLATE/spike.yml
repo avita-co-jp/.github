@@ -1,7 +1,5 @@
 name: Spike
 description: Spikeを行う時のIssue Type。
-labels:
-  - "Spike"
 body:
   - type: textarea
     attributes:

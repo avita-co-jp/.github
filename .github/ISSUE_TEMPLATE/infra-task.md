@@ -2,7 +2,6 @@
 name: Infrastructure Task (Markdown)
 about: インフラチームへ依頼するためのIssue Template
 title: "[Infrastructure]: "
-labels: Infrastructure
 ---
 
 ## Related Links

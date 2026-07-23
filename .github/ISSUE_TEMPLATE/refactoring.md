@@ -2,7 +2,6 @@
 name: Refactoring (Markdown)
 about: Refactoring を行う時のIssue Type
 title: "[Refactor]: "
-labels: Refactoring
 ---
 
 ## Related Links
