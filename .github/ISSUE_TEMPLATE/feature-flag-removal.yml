@@ -1,7 +1,5 @@
 name: Feature Flag Removal
 description: Feature Flagの削除を行うIssue Type
-labels:
-  - "Feature Flag Removal"
 body:
   - type: textarea
     attributes:

@@ -2,7 +2,6 @@
 name: User Story (Markdown)
 about: 新機能の開発
 title: "[User Story]: "
-labels: User Story
 ---
 
 ## Figma Design

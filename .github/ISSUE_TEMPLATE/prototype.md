@@ -2,7 +2,6 @@
 name: Prototype (Markdown)
 about: 新機能の開発
 title: "[Prototype]: "
-labels: Prototype
 ---
 
 ## Figma Design

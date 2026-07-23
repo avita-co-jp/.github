@@ -1,8 +1,6 @@
 name: Document
 description: 何かDocument作成をする場合のIssue Type
 title: "[Document]: "
-labels:
-  - "Documentation"
 
 body:
   - type: textarea

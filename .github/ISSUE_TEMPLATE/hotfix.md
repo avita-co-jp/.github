@@ -2,7 +2,6 @@
 name: Hotfix (Markdown)
 about: HotFix対応のIssue Type
 title: "[Hotfix]: "
-labels: Hotfix
 ---
 
 ## Related Links

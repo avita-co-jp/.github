@@ -1,8 +1,6 @@
 name: Hotfix
 description: Hotfix対応のIssue Type
 title: "[Hotfix]: "
-labels:
-  - "Hotfix"
 
 body:
   - type: textarea

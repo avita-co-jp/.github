@@ -1,8 +1,6 @@
 name: Bug Fix
 description: 不具合を修正するIssue Type
 title: "[Bug Fix]: "
-labels:
-  - "Bug Fix"
 
 body:
   - type: textarea
