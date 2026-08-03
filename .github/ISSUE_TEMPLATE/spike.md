@@ -10,7 +10,7 @@ title: "[Spike]: "
 - 
 
 ## Description
-<!-- Spikeの内容と理由を記載する。詳細はこちら参照 https://docs.google.com/presentation/d/1-z6B3tyji7bVegMOyEtl__nOQJrHSETmSV6Ti1NTQxU/edit#slide=id.g26536243de2_0_176 -->
+<!-- Spikeの内容と理由を記載する。作成方法: https://github.com/avita-co-jp/documents/blob/main/%E9%96%8B%E7%99%BA%E3%83%AB%E3%83%BC%E3%83%AB/issue-types/spike.md -->
 
 ## Output
 <!-- 調査結果をこちらに記載し、Team全体、またはProduct Ownerへ共有する。 -->
