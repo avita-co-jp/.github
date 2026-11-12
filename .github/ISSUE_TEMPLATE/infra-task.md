@@ -1,5 +1,5 @@
 ---
-name: Infrastructure Task (Markdown)
+name: Infrastructure Task
 about: インフラチームへ依頼するためのIssue Template
 title: "[Infrastructure]: "
 ---

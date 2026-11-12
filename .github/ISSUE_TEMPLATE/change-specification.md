@@ -1,5 +1,5 @@
 ---
-name: Change Specification (Markdown)
+name: Change Specification
 about: 既存の仕様を変更する時に使用するIssue Type
 title: "[Change specification]: "
 ---

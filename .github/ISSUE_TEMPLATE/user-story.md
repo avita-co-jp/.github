@@ -1,5 +1,5 @@
 ---
-name: User Story (Markdown)
+name: User Story
 about: 新機能の開発
 title: "[User Story]: "
 ---

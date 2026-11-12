@@ -1,5 +1,5 @@
 ---
-name: Spike (Markdown)
+name: Spike
 about: Spikeを行う時のIssue Type。
 title: "[Spike]: "
 ---

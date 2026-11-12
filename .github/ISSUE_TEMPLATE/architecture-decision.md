@@ -1,5 +1,5 @@
 ---
-name: Architecture Decision (Markdown)
+name: Architecture Decision
 about: アーキテクチャを設計するときに使用するIssue Type
 title: "[Architecture Decision]: "
 ---

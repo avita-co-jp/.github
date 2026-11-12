@@ -1,5 +1,5 @@
 ---
-name: Document (Markdown)
+name: Document
 about: 何かDocument作成をする場合のIssue Type
 title: "[Document]: "
 ---

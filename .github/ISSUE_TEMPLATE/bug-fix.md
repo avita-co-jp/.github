@@ -1,5 +1,5 @@
 ---
-name: Bug Fix (Markdown)
+name: Bug Fix
 about: 不具合を修正するIssue Type
 title: "[Bug Fix]: "
 ---

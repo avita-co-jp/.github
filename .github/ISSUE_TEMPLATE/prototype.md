@@ -1,5 +1,5 @@
 ---
-name: Prototype (Markdown)
+name: Prototype
 about: 新機能の開発
 title: "[Prototype]: "
 ---

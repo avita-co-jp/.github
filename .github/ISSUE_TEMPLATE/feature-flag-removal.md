@@ -1,5 +1,5 @@
 ---
-name: Feature Flag Removal (Markdown)
+name: Feature Flag Removal
 about: Feature Flagの削除を行うIssue Type
 ---
 
