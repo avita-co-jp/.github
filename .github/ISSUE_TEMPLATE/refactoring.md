@@ -10,7 +10,7 @@ title: "[Refactor]: "
 - 
 
 ## Description
-<!-- Refactoringの目的を記載する。より詳細な説明はhttps://github.com/avita-co-jp/documents/blob/main/%E9%96%8B%E7%99%BA%E3%83%AB%E3%83%BC%E3%83%AB/Refactoring-Rule.md -->
+<!-- Refactoringの目的を記載する。より詳細な説明はhttps://github.com/avita-co-jp/documents/blob/main/%E9%96%8B%E7%99%BA%E3%83%AB%E3%83%BC%E3%83%AB/issue-types/refactoring.md -->
 
 ## Scope
 <!-- Refactoringをする範囲を大まかに書く。内容としては、「Diffが想像できる」や「方向性が分かる」ような内容で良い。それよりも細かいところはCode Reviewの時に確認する。 -->

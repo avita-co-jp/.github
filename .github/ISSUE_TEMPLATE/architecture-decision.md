@@ -4,7 +4,7 @@ about: アーキテクチャを設計するときに使用するIssue Type
 title: "[Architecture Decision]: "
 ---
 
-## Parent Issue
+## Parent Issues
 <!-- User Storyの親にあたるIssueを記載する。 -->
 
 - 

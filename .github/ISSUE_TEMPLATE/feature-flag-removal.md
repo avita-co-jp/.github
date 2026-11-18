@@ -1,6 +1,7 @@
 ---
 name: Feature Flag Removal
 about: Feature Flagの削除を行うIssue Type
+title: "[Feature Flag Removal]: "
 ---
 
 ## Related Links

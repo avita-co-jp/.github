@@ -7,7 +7,7 @@ title: "[Prototype]: "
 ## Figma Design
 <!-- FigmaのDesignリンクを記載する。 -->
 
-## Other Issues or Links
+## Related Links
 <!-- 関連するその他のIssueや、 リンクを記載する -->
 
 ## Description

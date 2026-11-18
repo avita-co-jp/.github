@@ -9,7 +9,7 @@ title: "[Infrastructure]: "
 - 
 
 ## Description
-<!--  askの概要を記載する。（User Storyと同じFormatで誰のためにするか、何をするか、なぜするかで記載する）-->
+<!-- Taskの概要を記載する。（User Storyと同じFormatで誰のためにするか、何をするか、なぜするかで記載する）-->
 
 ## Task List
 <!-- 細分化したタスクの完了条件を記述する -->

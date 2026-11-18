@@ -7,7 +7,7 @@ title: "[Epic]: "
 ## Figma Design
 <!-- FigmaのDesignリンクを記載する。 -->
 
-## Other Issues or Links
+## Related Links
 <!-- 関連するその他のIssueや、 リンクを記載する -->
 
 - 
@@ -18,7 +18,7 @@ title: "[Epic]: "
 ## Image
 <!-- DesignやCaptureを張る場合、こちらに記載する。 -->
 
-## When
+## When/Deploy
 <!-- いつまでにReleaseされるべきか、また、どの環境にDeployされるべきかを記載する。 -->
 
 ## Notes
